@@ -59,23 +59,25 @@ L’image mini.iso peut être récupérée à partir du miroir Debian, par exemp
 
    - Ouvrez le fichier de configuration SSH :
 
-   ````bash
-    nano /etc/ssh/sshd_config
+     ```bash
+     nano /etc/ssh/sshd_config
      ```
-   - Trouvez et modifiez les lignes suivante :
+
+   - Trouvez et modifiez les lignes suivantes :
 
      ```bash
      PermitRootLogin yes
      ```
+
      ```bash
      PasswordAuthentication yes
+     ```
 
    - Enregistrez le fichier et quittez l'éditeur.
 
      Pour enregistrer vos modifications dans nano, appuyez sur **Ctrl + O**, puis appuyez sur Entrée.
-   Pour quitter l'éditeur, appuyez sur **Ctrl + X**.
+     Pour quitter l'éditeur, appuyez sur **Ctrl + X**.
 
-   ````
 
 5. Redémarrez le service SSH pour appliquer les changements :
 
