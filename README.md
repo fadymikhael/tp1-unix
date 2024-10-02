@@ -1,7 +1,5 @@
 ## Fady Mikhael
 
-# TP 1 : Compte Rendu d'Installation de Debian (Version Bookworm Stable)
-
 # 1. Installation de la Machine Virtuelle
 
 L’objectif de ce TP est de réaliser une installation minimale d’un serveur Linux en utilisant **VirtualBox** avec la distribution **Debian stable** (Bookworm). Le système cible est une architecture **amd64**.
