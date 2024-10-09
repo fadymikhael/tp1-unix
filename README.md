@@ -2,8 +2,6 @@
 
 # 1. Installation de la Machine Virtuelle
 
-L’objectif de ce TP est de réaliser une installation minimale d’un serveur Linux en utilisant **VirtualBox** avec la distribution **Debian stable** (Bookworm). Le système cible est une architecture **amd64**.
-
 ### Récupération de l'Image d'Installation
 
 L’image mini.iso peut être récupérée à partir du miroir Debian, par exemple :
